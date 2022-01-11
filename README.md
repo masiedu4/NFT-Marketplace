@@ -1,0 +1,1 @@
+A basic NFT marektplace built with Solidity & Truffle. Users can list, buy , sell and de-list tokens.
